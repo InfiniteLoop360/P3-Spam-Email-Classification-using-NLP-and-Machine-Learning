@@ -87,7 +87,17 @@ Spam emails are a significant challenge for email users worldwide, affecting pro
    ```bash
    pip install -r requirements.txt
 3. **Download the dataset** and place it in the project directory.
-  
+
+---
+
+## **Usage**
+
+### **Run the Script**  
+Run the script to preprocess the data, train the model, and evaluate the results:
+
+```bash
+python main.py
+
 
 
 
