@@ -83,11 +83,11 @@ Spam emails are a significant challenge for email users worldwide, affecting pro
    ```bash
    git clone https://github.com/<YourUsername>/spam-email-classification.git
    cd spam-email-classification
-
-2. **Install the required dependencies**:
-   '''bash
+2. **Install the required dependencies**
+   ```bash
    pip install -r requirements.txt
+3. **Download the dataset** and place it in the project directory.
+  
 
-4. **Download the dataset** and place it in the project directory.
 
 
