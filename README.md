@@ -92,7 +92,14 @@ Spam emails are a significant challenge for email users worldwide, affecting pro
 
 ## **Usage**
 
-### **Run the Script**  
-Run the script to preprocess the data, train the model, and evaluate the results:
-```bash
-python main.py
+1. ### **Run the Script**
+   ```bash
+   python main.py
+2. ### **Test with Custom Email Inputs**
+   ```bash
+   input_mail = ["Your sample email text here."]
+
+
+
+
+
