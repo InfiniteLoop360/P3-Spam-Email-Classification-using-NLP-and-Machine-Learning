@@ -85,9 +85,9 @@ Spam emails are a significant challenge for email users worldwide, affecting pro
    cd spam-email-classification
 
 2. **Install the required dependencies**:
-bash
-pip install -r requirements.txt
+   '''bash
+   pip install -r requirements.txt
 
-3. **Download the dataset** and place it in the project directory.
+4. **Download the dataset** and place it in the project directory.
 
 
